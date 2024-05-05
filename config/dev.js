@@ -5,5 +5,3 @@ module.exports = {
     cookieKey: 'hdfsakljhfkjlhfjkHSKJH123213456879hjkl'
 };
 
-// ClientID: 518567654403-srsm3nnvgssdl86ceg4bc18g96j1u49h.apps.googleusercontent.com
-// ClientSecret: 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
